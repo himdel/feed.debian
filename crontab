@@ -1,0 +1,1 @@
+0 3 * * * ruby /home/himdel/feed.debian/debian-vote.rb > /var/www/html/feed/debian-vote.json
